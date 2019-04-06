@@ -1,2 +1,5 @@
 # NOT-NOT-game
-ECE243 final project
+This game is created for the final project of ECE243, at University of Toronto.
+
+All rights reserved.
+Qihan Liu & Xiaolin Liu
